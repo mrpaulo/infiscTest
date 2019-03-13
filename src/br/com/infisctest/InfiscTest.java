@@ -1,5 +1,13 @@
-package infisctest;
+package br.com.infisctest;
 
+import br.com.infictest.service.ClientAgeAndDayBirth;
+import br.com.infictest.service.EmployeeTime;
+import br.com.infictest.service.EmployeeTimeContract;
+import br.com.infictest.service.EmployeeTotalSale;
+import br.com.infictest.service.TargetFile;
+import br.com.infictest.service.ClientTotalSale;
+import br.com.infisctest.model.Sale;
+import br.com.infisctest.model.Client;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashMap;

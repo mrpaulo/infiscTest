@@ -1,4 +1,4 @@
-package infisctest;
+package br.com.infisctest.model;
 
 public class Employee extends Person {
 
