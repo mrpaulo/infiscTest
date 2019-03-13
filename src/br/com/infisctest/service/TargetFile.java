@@ -1,4 +1,4 @@
-package br.com.infictest.service;
+package br.com.infisctest.service;
 
 import br.com.infisctest.model.Sale;
 import br.com.infisctest.model.Employee;

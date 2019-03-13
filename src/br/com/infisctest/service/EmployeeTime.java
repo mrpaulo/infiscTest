@@ -1,4 +1,4 @@
-package br.com.infictest.service;
+package br.com.infisctest.service;
 
 public class EmployeeTime {
 
